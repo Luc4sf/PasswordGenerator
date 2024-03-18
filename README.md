@@ -2,7 +2,7 @@
 
 [![license mit](https://img.shields.io/github/license/Luc4sf/PasswordGenerator)](https://github.com/Luc4sf/PasswordGenerator/blob/main/LICENSE.md)
 
-> :rocket: Password Generator Website, made as part of DevSamurai's Front End course
+> :rocket: Password Generator Website, made as part of DevSamurai's Frontend course.
 
 ## Versioning
 
